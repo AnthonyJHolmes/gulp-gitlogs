@@ -1,0 +1,28 @@
+{
+  "name": "gulp-gitlogs",
+  "version": "0.0.1",
+  "description": "A Gulp plugin which allows you to create a log file. \r _________________________________________________________________________________\r **NOT COMPLETED YET**\r **Work in progress**\r _________________________________________________________________________________",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnthonyJHolmes/gulp-gitlogs.git"
+  },
+  "keywords": [
+    "gulp",
+    "log",
+    "create",
+    "git"
+  ],
+  "author": "Anthony Holmes <a.j.holmes@umail.ucc.ie>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyJHolmes/gulp-gitlogs/issues"
+  },
+  "homepage": "https://github.com/AnthonyJHolmes/gulp-gitlogs"
+}
