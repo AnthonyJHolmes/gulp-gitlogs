@@ -2,6 +2,8 @@
 A Gulp plugin which allows you to create a log file. 
 **NOT COMPLETED YET**
 **Work in progress**
+_________________________________________________________________________________
+
 Usage
 
 Install
