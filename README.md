@@ -1,8 +1,5 @@
 # gulp-gitlogs
-##A Gulp plugin which allows you to create a log file. 
-___
-**NOT COMPLETED YET, DO NOT DOWNLOAD, JUST TESTING AT THE MOMENT.**
-___
+##A Gulp plugin that create a log file in the current directory containing logs specified with/out a prefix between the current and second most recent tag. 
 
 **Usage**
 
@@ -13,6 +10,8 @@ As you can see in the example below I used: --grep="DONE" so I am searching for 
 with the word DONE. 
 
 By default a file called log.txt is created with the messages in the same directory for which the gulp task was called.
+
+**I plan on making this better in time**
 
 ___
 **Install**
