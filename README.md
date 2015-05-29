@@ -1,6 +1,5 @@
 # gulp-gitlogs
-##A Gulp plugin that create a log file in the current directory containing logs specified with/out a prefix between the current and second most recent tag. 
-
+---
 **Usage**
 
 Used to generate logs for between the current tag and the second most recent tag.
