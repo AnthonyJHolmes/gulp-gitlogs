@@ -1,4 +1,7 @@
 # gulp-gitlogs
+Gulp task that generates a log file from certain prefixes.
+---
+[![NPM](https://nodei.co/npm/gulp-gitlogs.png?downloads=true&stars=true)](https://nodei.co/npm/gulp-gitlogs/)
 ---
 **Usage**
 
